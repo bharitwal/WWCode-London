@@ -1,5 +1,4 @@
-<a href="https://www.womenwhocode.com/london"><img alt="Women Who Code London Network." height="270" width="800" align="center"
-     src="docs/images/wwcode_london_logo.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
+<a href="https://www.womenwhocode.com/london"><img alt="Women Who Code London Network." align="center" src="docs/images/wwcode_london_logo.png"></a><br><br>&nbsp;&nbsp;&nbsp;<br>
 
 - [Women Who Code London - Network](#women-who-code-london---network)
 - [Social](#social)
@@ -12,7 +11,6 @@
 
 Women Who Code London - Network
 ---
-___
 Welcome! This repo contains content, code & resources for the Women Who Code London network.
 
 The Women Who Code London is a community dedicated to inspiring women to excel in their technology careers. Our events cover various topics around software engineering.
@@ -23,7 +21,6 @@ The Women Who Code London is a community dedicated to inspiring women to excel i
  <br>
 
 ## Social
-___
 
 Join our community conversations!
 
@@ -34,8 +31,8 @@ Join our community conversations!
  <br>
 
 ## Event Resources
-___
-See below to find all the resources shared during past and upcoming events. Clicking on a logo will take you to the event code base or slides. You will also find a link to the video recording in the event description. All of our events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA) 1-3 days following an event. Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
+
+See below to find all the resources shared during past and upcoming events. You will also find a link to resources related to the event. All recorded events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA) 1-3 days following an event. Please note all events are not recorded. Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
 
 To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTING.md).
  <br>
@@ -59,7 +56,8 @@ How can you measure or define someone's personality? One way is to figure out wh
 - Can one be an extroverted introvert and vice versa?
 - Why do extroverts often have it easier?
 - How can the particular skills of introverts and extroverts be of use to achieve excellence?
-  <br><br>
+
+<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
 <em>- By Sumeyya Javaid and Rajani Rao</em></td>
 </tr>
 
@@ -71,7 +69,8 @@ How can you measure or define someone's personality? One way is to figure out wh
 We are opening positions to help & grow with Women Who Code!
 
 We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you!
-  <br><br>
+
+<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
 <em>- By Irina Kamalova</em></td>
 </tr>
 
@@ -84,19 +83,18 @@ We are looking for volunteers, and we prepared a detailed and comprehensive guid
 
 
 ## About Women Who Code
-___
 
-WWCode is the largest and most active community of technical women in the world. We have over 230,000 members in 70 cities spanning 97 countries & counting. Join our community by visiting [womenwhocode.com](womenwhocode.com) and sign up to become a member.
+WWCode is the largest and most active community of technical women in the world. We have over 320,000 members in 147 countries & counting. Join our community by visiting [womenwhocode.com](womenwhocode.com) and sign up to become a member.
  <br>
 
 ## Code of Conduct
-___
+
 Women Who Code (WWCode) is dedicated to providing an empowering experience for everyone who participates in or supports our community. Our events are intended to inspire women to excel in technology careers, and anyone who is there for this purpose is welcome. Because we value the safety and security of our members and strive to have an inclusive community, we do not tolerate harassment of members or event participants in any form. This Code of Conduct was created to clearly define what we mean by a harassment-free experience, so that our community and those who support it are clear about our intent and have access to procedures for addressing issues, should they arise.
 [Code of Conduct](https://www.womenwhocode.com/codeofconduct)
  <br>
 
 ## Contributing
-___
+
 We welcome your contributions! :two_hearts: To contribute to this repo, follow the setup instructions below
 
 1. 🍴 Fork this repo  
@@ -108,7 +106,6 @@ Or just [create an issue](https://github.com/WomenWhoCode/WWCode-London/issues) 
  <br>
 
 ## Credits
-___
 
 Thank you to our lovely [contributors](https://github.com/WomenWhoCode/WWCode-London/graphs/contributors).
 

@@ -7,16 +7,16 @@ Firstly thanks for your contributions!!! :sparkling_heart::sparkling_heart:
 If you have resources you would like to share from your event or resources you think our community would benefit from keep reading!
 
 ## Pre-Reqs
----
 
-1.  :book: Read up on fork & pull request models
-2. 🍴 Fork this repo or pull from upstream to get the latest.  
-3. 🔨 Follow the contributing guidelines below
-4. 🔧 Make a pull request
-5. 🎉 Get your pull request approved - success!
+1. 📖 Read up on fork & pull request models
+2. 🍴 Fork this repo to your account
+3. 🌱 Create a branch for the change you intend to make
+4. ✍️ Make your changes to the above created branch in your fork
+5. 🔨 Follow the contributing guidelines below
+6. 🔧 Send a pull request from your fork's branch to our `main` branch
+7. 🎉 Get your pull request approved - success!
 
 ## Adding Event Resources
----
 
 1. If there is a github repository with code to share run the following in your terminal.
 
@@ -64,9 +64,7 @@ If you have resources you would like to share from your event or resources you t
 
 
 
-
 ## Adding Other Resources
----
 
 1. Create a new folder with a good descriptive name for the resources you are sharing.
 
@@ -80,4 +78,6 @@ If you have resources you would like to share from your event or resources you t
     git submodule add $REPO_URL
     ```
 
+## How to write a Git Commit Message
 
+Please read [this](https://cbea.ms/git-commit/) article on best practices to writing a git commit message and follow guidelines for commiting changes to this repo. 
