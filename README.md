@@ -57,7 +57,7 @@ How can you measure or define someone's personality? One way is to figure out wh
 - Why do extroverts often have it easier?
 - How can the particular skills of introverts and extroverts be of use to achieve excellence?
 
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br>
+<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
 <em>- By Sumeyya Javaid and Rajani Rao</em></td>
 </tr>
 
@@ -70,7 +70,7 @@ We are opening positions to help & grow with Women Who Code!
 
 We are looking for volunteers, and we prepared a detailed and comprehensive guide on how to be involved! In the presentation, we're going to share our new projects! Get the chance to be the first to know about them and contribute to the next step of growing the Women Who Code Community! Dear women, we need you!
 
-<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br>
+<br>[Blog](https://docs.google.com/presentation/d/15x8cRK5o7q-XAtn7sbgHM_tljgi70BWApn6CglF2qJw/edit?usp=sharing)<br><br>
 <em>- By Irina Kamalova</em></td>
 </tr>
 
