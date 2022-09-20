@@ -49,6 +49,7 @@ To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTIN
 <td colspan="3"><b>Mock Behavioral Interview</b>
 <br><br>
 Interviewing is a skill that improves with practice. You never want your first interview to be for the job you want the most. In order to ensure you have had some practice before it really counts, Women Who Code London is proud to launch the Mock Behavioral Interview Program for all our members to hone their interviewing skills.
+<br><br>
 
 A mock interview gives you practice answering interview questions in a realistic setting where you are under a bit of pressure. It’s only about 30 minutes, but that’s enough time to force you to think on your feet. Most important, mock interviews are designed to provide feedback and allow for improvement.
 
@@ -60,7 +61,7 @@ Who is this program for?
 <em>- By Bhawana Haritwal </em>
 <br><br>
 
-  * [Slides & Materials](resources/mock-behavioural-interview/slides/) 
+  * [Slides & Materials](resources/mock-behavioral-interview/) 
   * [Video Recording](https://www.youtube.com/watch?v=nWHQ0g8sorI)    
   * [Slack #mock_interview](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
 
