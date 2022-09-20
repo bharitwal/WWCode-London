@@ -18,7 +18,7 @@ The Women Who Code London is a community dedicated to inspiring women to excel i
 💻 Technical Webinars 📲 Coding Resources 💭 Study Group Sessions 🗺️ Supportive Global Network
 
 **If you're interested in joining the community as a member or volunteer please visit our [website](https://www.womenwhocode.com/london) for more information.**
- <br>
+
 
 ## Social
 
@@ -28,20 +28,41 @@ Join our community conversations!
 [Twitter](https://twitter.com/WWCodeLondon)  
 [Facebook](https://www.facebook.com/wwcodelondon/)
 [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
- <br>
+
 
 ## Event Resources
 
 See below to find all the resources shared during past and upcoming events. You will also find a link to resources related to the event. All recorded events are uploaded to the [Women Who Code Youtube Channel](https://www.youtube.com/channel/UCfMEaBUSABoOsxr7HgSmEdA) 1-3 days following an event. Please note all events are not recorded. Please reach out with any questions or issues, or join us in our Slack channel for interactive discussions and support.
 
 To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTING.md).
- <br>
+
 
 #### Recent events:
 
 
 <table style= "background-color: transparent; border-color: transparent;">
 <tbody>
+
+<!-- Mock Behavioral Interview -->
+<tr>
+<td style="1px solid black" align="left" width="20%"><img alt="Mock Behavioral Interview" align="left" src="resources/mock-behavioral-interview/images/mock-behavioral-interview.png"/>&nbsp;</td>
+<td colspan="3"><b>Mock Behavioral Interview</b>
+<br><br>
+Interviewing is a skill that improves with practice. You never want your first interview to be for the job you want the most. In order to ensure you have had some practice before it really counts, Women Who Code London is proud to launch the Mock Behavioral Interview Program for all our members to hone their interviewing skills.
+
+A mock interview gives you practice answering interview questions in a realistic setting where you are under a bit of pressure. It’s only about 30 minutes, but that’s enough time to force you to think on your feet. Most important, mock interviews are designed to provide feedback and allow for improvement.
+
+Who is this program for?
+- Anyone who is looking for a job and wants to hone their interviewing skills by practicing in a supportive environment
+- Anyone who would be willing to help conduct interviews with candidates and provide feedback. Mock Interviews offer an excellent opportunity to highlight your commitment to the community and also train your own interviewer skills. Interviewers will be provided with full support and resources to conduct interviews and provide feedback.
+
+<br>
+<em>- By Bhawana Haritwal </em>
+<br><br>
+
+  * [Slides & Materials](resources/mock-behavioural-interview/slides/) 
+  * [Video Recording](https://www.youtube.com/watch?v=nWHQ0g8sorI)    
+  * [Slack #mock_interview](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
 
 <!-- Book Club: Quiet By Susan Cain -->
 <tr>
