@@ -1,4 +1,4 @@
-- [Behavioural Interview Questions](#behavioural-interview-questions)
+- [Behavioral Interview Questions](#behavioral-interview-questions)
   - [Achievements](#achievements)
   - [Adaptability](#adaptability)
   - [Collaboration/Teamwork](#collaborationteamwork)
@@ -11,9 +11,9 @@
   - [Problem Solving](#problem-solving)
   - [Technical Expertise](#technical-expertise)
 
-# Behavioural Interview Questions
+# Behavioral Interview Questions
 
-List of potential behavioural interview questions. Please note this is not an exhaustive list and serves as a cheat sheet to help candidates prepare for the interview. 
+List of potential behavioral interview questions. Please note this is not an exhaustive list and serves as a cheat sheet to help candidates prepare for the interview. 
 
 ## Achievements
 - Describe a project that you are particularly proud of. How did it impact your company? What challenges did you encounter and how did you solve them?
