@@ -7,6 +7,10 @@
 - [About Women Who Code](#about-women-who-code)
 - [Code of Conduct](#code-of-conduct)
 - [Contributing](#contributing)
+- [Community](#community)
+  - [Programs](#programs)
+  - [Special Interest Groups](#special-interest-groups)
+  - [Other Volunteering Opporuities](#other-volunteering-opporuities)
 - [Credits](#credits)
 
 Women Who Code London - Network
@@ -24,10 +28,11 @@ The Women Who Code London is a community dedicated to inspiring women to excel i
 
 Join our community conversations!
 
-[Slack](https://app.slack.com/client/TGYGA50DQ/CGYS4RJE9)  
-[Twitter](https://twitter.com/WWCodeLondon)  
-[Facebook](https://www.facebook.com/wwcodelondon/)
-[LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
+- [Slack](https://app.slack.com/client/TGYGA50DQ/CGYS4RJE9)  
+- [Twitter](https://twitter.com/WWCodeLondon)  
+- [Facebook](https://www.facebook.com/wwcodelondon/)
+- [LinkedIn](https://www.linkedin.com/company/wwcodelondon/)
+- [Meetup](https://www.meetup.com/women-who-code-london/)
 
 
 ## Event Resources
@@ -117,15 +122,24 @@ Women Who Code (WWCode) is dedicated to providing an empowering experience for e
 
 ## Contributing
 
-We welcome your contributions! :two_hearts: To contribute to this repo, follow the setup instructions below
+We welcome your contributions! :two_hearts: To contribute to this repo, follow the [contributing guidelines](CONTRIBUTING.md)
 
-1. 🍴 Fork this repo  
-2. 🔨 Follow the [contributing guidelines](CONTRIBUTING.md)
-3. 🔧 Make a pull request
-4. 🎉 Get your pull request approved - success!
 
-Or just [create an issue](https://github.com/WomenWhoCode/WWCode-London/issues) - any little bit of help counts! 😊
- <br>
+## Community
+
+### Programs 
+
+The Women Who Code London community succesfully runs multiple programs to support our members in their tech journey. Please refer to the current list of programs in our [community guide](community.md).
+
+### Special Interest Groups
+
+If you are interested in a particular area of tech, get in touch with our special interest groups, where you will meet like-minded professionals to access insights and expertise. Please refer to the details in our [community guide](community.md).
+
+### Other Volunteering Opporuities
+
+We are always looking for new volunteers. If you are interested in volunteering for the community, please refer to the available opportunities in the [community guide](community.md).
+
+
 
 ## Credits
 
