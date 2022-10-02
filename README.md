@@ -9,8 +9,8 @@
 - [Contributing](#contributing)
 - [Community](#community)
   - [Programs](#programs)
-  - [Volunteering](#volunteering)
   - [Special Interest Groups](#special-interest-groups)
+  - [Other Volunteering Opporuities](#other-volunteering-opporuities)
 - [Credits](#credits)
 
 Women Who Code London - Network
@@ -131,13 +131,15 @@ We welcome your contributions! :two_hearts: To contribute to this repo, follow t
 
 The Women Who Code London community succesfully runs multiple programs to support our members in their tech journey. Please refer to the current list of programs in our [community guide](community.md).
 
-### Volunteering
+### Special Interest Groups
+
+If you are interested in a particular area of tech, get in touch with our special interest groups, where you will meet like-minded professionals to access insights and expertise. Please refer to the details in our [community guide](community.md).
+
+### Other Volunteering Opporuities
 
 We are always looking for new volunteers. If you are interested in volunteering for the community, please refer to the available opportunities in the [community guide](community.md).
 
-### Special Interest Groups
 
-If you are interested in a particular area of tech, get in touch with our sspecial interest groups, where you will meet like-minded professionals to access insights and expertise. Please refer to the details in our [community guide](community.md).
 
 ## Credits
 
