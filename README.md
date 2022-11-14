@@ -108,7 +108,7 @@ To add new resources for events follow the [CONTRIBUTING guidelines](CONTRIBUTIN
 
 <!-- Mock-Interviews: Algorithms & Data Structure -->
 <tr>
-<td style="1px solid black" align="left" width="20%"><img alt="Mock-Interviews: Algorithms & Data Structure" align="left" src="resources/mock-interviews/mock-code-interview/images/image.webp"/>&nbsp;</td>
+<td style="1px solid black" align="left" width="20%"><img alt="Mock-Interviews: Algorithms & Data Structure" align="left" src="resources/mock-interviews/mock-coding-interview/images/image.webp"/>&nbsp;</td>
 <td colspan="3"><b>Workshop Mock-Interviews: Algorithms & Data Structure</b>
 <br><br>
 Mock Interviews are very helpful in preparing for real interviews! Women Who Code London helps participants of the community to organise mock interviews and practise tackling interviews with each other!
@@ -121,7 +121,7 @@ In this session, we will share the guidelines to go through coding interviews an
 
 - [Presentation](https://docs.google.com/presentation/d/1-FiCp8KOQCjUmwz05JADm8umNU3TljRTPyAzs70bGJI/)
 - [Video Recording](https://www.youtube.com/watch?v=A8AvkOSvUpM)
-- [Materials](resources/mock-interviews/mock-code-interview)
+- [Materials](resources/mock-interviews/mock-coding-interview)
 - [Slack #mock_interview](https://wwcodelondon.slack.com/archives/C03LFUH9W3X)
 
 <!-- Mock Behavioral Interview -->
