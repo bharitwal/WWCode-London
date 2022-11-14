@@ -33,7 +33,7 @@ You have to complete the form in [Women Who Code - London #mock_interviews](http
 
 Pick up among:
 
-- [Mock-Coding Interview - Algorithms & Data Structure](/resources/mock-interviews/mock-code-interview)
+- [Mock-Coding Interview - Algorithms & Data Structure](/resources/mock-interviews/mock-coding-interview)
 - [Mock-Behaviour Interview](/resources/mock-interviews/mock-behavioral-interview)
 
 ### Request Acceptance Stage
@@ -58,7 +58,7 @@ Primary should organise an interview.**
 
 ### Preparation Stage
 
-- Have a look in the guidelines for [Mock-Behaviour Interview](/resources/mock-interviews/mock-behavioral-interview) and [Mock-Coding Interview - Algorithms & Data Structure](/resources/mock-interviews/mock-code-interview).
+- Have a look in the guidelines for [Mock-Behaviour Interview](/resources/mock-interviews/mock-behavioral-interview) and [Mock-Coding Interview - Algorithms & Data Structure](/resources/mock-interviews/mock-coding-interview).
 - Check the [Behavioral Interview Workshop](https://www.youtube.com/watch?v=nWHQ0g8sorI)
 - Check the [Mock-Interviews: Algorithms & Data Structure Workshop](https://www.youtube.com/watch?v=nWHQ0g8sorI)
 - Join [Women Who Code - London #mock_interviews](https://wwcodelondon.slack.com/archives/C03LFUH9W3X) slack channel
