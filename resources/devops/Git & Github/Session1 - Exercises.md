@@ -1,7 +1,7 @@
-Session 1  - Git and Github Excercises
+Session 1  - Git and Github Exercises
 ---
 
-The exercises have been designed to be complete in the given sequence.
+Questions have been designed to be completed in the given sequence.
 
 1. Create a local directory on your computer named `git-workshop` and initialize it to be managed by git.
 
@@ -24,12 +24,12 @@ The exercises have been designed to be complete in the given sequence.
 8. Log the commit history to show only commit id and the message.
 9. Edit the last commit message in `main` to `edit commit message for exercise7`
 10. Investigate where the `HEAD` is pointing to.
-11. Investigate all existing branches. Create a new branch `feature1` and switch to it.
+11. Investigate all existing branches. Create a new branch `session1` and switch to it.
 12. Investigate all existing branches and `HEAD` now.
-13. Add a new file `feature1` in `feature1` branch and commit the changes. Investigate `HEAD`.
-14. Create a new branch `feature2` from the branch `feature1`. Switch to branch `feature2`. Investigate all existing branches and `HEAD` now.
-15. Delete `feature2` branch.
+13. Add a new file `random` in `session1` branch and commit the changes. Investigate `HEAD`.
+14. Create a new branch `feature1` from the branch `session1`. Switch to branch `feature1`. Investigate all existing branches and `HEAD` now.
+15. Delete `feature1` branch.
 16. Switch to `main`. Edit the file `session1-file1` in the `main` branch and add the name of the branch "MASTER" in the file. Stage and commit the changes made to the file.
-17. Switch to the `feature1` branch, and edit the same file `session1-file1` in the feature1 branch and add the name of the branch "FEATURE1" in the file.
-18. Your changes in the `feature1` branch is in the draft stage (not staged or committed). Now try to switch back to the `main` branch. Resolve the issue reported by git without committing your draft changes and switch to `main`.
-19. Now switch back to `feature1` branch (assume your changes are now finalized). Commit the changes that were in the draft stage (ie: the file `session1-file1` with the name of the branch "FEATURE1" in it).
+17. Switch to the `session1` branch, and edit the same file `session1-file1` in the session1 branch and add the name of the branch "SESSION1" in the file.
+18. Your changes in the `session1` branch is in the draft stage (not staged or committed). Now try to switch back to the `main` branch. Resolve the issue reported by git without committing your draft changes and switch to `main`.
+19. Now switch back to `session1` branch (assume your changes are now finalized). Commit the changes that were in the draft stage (ie: the file `session1-file1` with the name of the branch "SESSION1" in it).
