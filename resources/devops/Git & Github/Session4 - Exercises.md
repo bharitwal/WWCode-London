@@ -1,7 +1,7 @@
 Session 4  - Git and Github Exercises
 ---
 
-Questions have been designed to cover the fork and clone workflow for contributing to public repositories on github.
+Questions have been designed to be completed in the given sequence to cover the fork and clone workflow for contributing to public repositories on github.
 
 1. Fork the [Women Who Code - London](https://github.com/WomenWhoCode/WWCode-London) repository.
 
